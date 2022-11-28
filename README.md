@@ -1,6 +1,5 @@
 # Network-Dynamics-and-Learning
 This repository contains all the projects from the course Network Dynamics and Learning from the M. Sc. Data Science and Engineering from Polytechnic of Turin.
-.
 All the three homeworks are provided with the Requirements file, the ".ipynb" file containing the notebook with the code implementation and the Report pdf file. All them were implemented in Python and by exploiting as main library NetworkX.
 
 The Homework 1 is an introduction to graphs and the computation of Wardrop equilibrium and Social Optimum.
